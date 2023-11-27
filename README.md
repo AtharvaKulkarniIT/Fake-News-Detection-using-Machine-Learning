@@ -1,6 +1,6 @@
 # Fake News Detection using Machine Learning
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yashkulkarni45/Fake-News-Detection-using-Machine-Learning/blob/main/Fake_News_Detection_EDAI_3.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yashkulkarni45/Fake-News-Detection-using-Machine-Learning/blob/main/Fake_News_Detection.ipynb)
 
 ## Overview
 
@@ -31,7 +31,7 @@ The notebook is divided into the following sections:
    - Removes stopwords and performs data cleaning.
 
 5. **Exploratory Data Analysis (EDA)**
-   - Analyzes and visualizes the distribution of true and fake news, most covered issues, word cloud, and maximum word count in a title.
+   - Analyzes and visualizes the distribution of true and fake news, most covered issues, word cloud and maximum word count in a title.
 
 6. **Data Preprocessing**
    - Further cleans and prepares the data for model training.
