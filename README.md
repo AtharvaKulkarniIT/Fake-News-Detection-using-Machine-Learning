@@ -57,4 +57,4 @@ The notebook is divided into the following sections:
 
 ## Contributing
 
-Feel free to contribute, provide feedback, or report issues.
+Feel free to contribute, provide feedback or report issues.
